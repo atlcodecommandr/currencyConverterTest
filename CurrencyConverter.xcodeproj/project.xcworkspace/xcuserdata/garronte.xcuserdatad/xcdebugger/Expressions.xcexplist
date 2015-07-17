@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CurrencyConverter.ViewController.pickerView (CurrencyConverter.ViewController)(ObjectiveC.UIPickerView, numberOfRowsInComponent : Swift.Int) -&gt; Swift.Int:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currencyNames">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrencyConverterTests.CurrencyConverterTests.testConversion (CurrencyConverterTests.CurrencyConverterTests)() -&gt; ():CurrencyConverterTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vc.fromTextField.text">
+            </PersistentString>
+            <PersistentString
+               value = "vc.valuetoConvert.text">
+            </PersistentString>
+            <PersistentString
+               value = "vc.convertedValue.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
